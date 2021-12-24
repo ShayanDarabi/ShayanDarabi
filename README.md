@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Science and ML
 - 🌱 I've taken some courses in python and ML and I'm learning new things which are related to field of data. It's fascinating that what stories can be narrated by analyzing
       the data. If you are also into playing with data like me, you know what I'm talking about :)
-- 📫 How to reach me: darabii.shayan@gmail.com
+- 📫 How to reach me:
+e-mail: darabii.shayan@gmail.com  | linkedin: www.linkedin.com/in/shayan-darabi-13171118b
 
 <!---
 ShayanDarabi/ShayanDarabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
