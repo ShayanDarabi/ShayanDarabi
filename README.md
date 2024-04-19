@@ -3,7 +3,9 @@
 - 🌱 I've taken some courses in python and ML and I'm learning new things which are related to the field of data. It's fascinating that what stories can be narrated by analyzing
       the data.
 - 📫 How to reach me:
-e-mail: darabii.shayan@gmail.com  | linkedin: www.linkedin.com/in/shayan-darabi-13171118b
+[<img src="https://github.com/ShayanDarabi/ShayanDarabi/blob/main/gmail.png" alt="gmail" width="20" height="20">](mailto:darabii.shayan@gmail.com)  | [<img src="https://github.com/ShayanDarabi/ShayanDarabi/blob/main/linkedin.png" alt="linkedin" width="20" height="20">](https://www.linkedin.com/in/darabi-shayan/)
+
+
 
 <!---
 ShayanDarabi/ShayanDarabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
