@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShayanDarabi
+- 👋 Hi, I’m @ShayanDarabi.
 - 👀 I’m interested in Data Science and ML.
 - 🎓 I graduated with a Bachelor of Science in Industrial Engineering from K.N.Toosi University of Technology.
 - 🌱 I have completed courses in Python and Machine Learning, and I am currently expanding my knowledge in areas related to Data Science and Machine Learning. I find it fascinating how analyzing data can 
