@@ -12,6 +12,7 @@
 
 - Machine Learning
 - Deep Learning
+- Operation Research
 - Natural Language Processing
 - Computer Vision
 
