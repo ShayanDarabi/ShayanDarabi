@@ -13,7 +13,7 @@
 - Machine Learning
 - Deep Learning
 - Operations Research
-- Reinforcement Learning
+- (Deep) Reinforcement Learning
 - Natural Language Processing
 - Computer Vision
 
