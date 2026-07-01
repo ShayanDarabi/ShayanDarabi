@@ -13,9 +13,9 @@
 - Machine Learning
 - Deep Learning
 - Operations Research
-- (Deep) Reinforcement Learning
-- Natural Language Processing
+- Reinforcement Learning & Deep Reinforcement Learning
 - Computer Vision
+- Natural Language Processing
 
 ### ⚙️ Tech Stack
 
